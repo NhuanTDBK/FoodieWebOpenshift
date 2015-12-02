@@ -9,8 +9,7 @@
         "laravel/framework": "5.1.*",
 		"elasticsearch/elasticsearch": "~1.0",
         "laravelcollective/html": "^5.1",
-        "league/flysystem": "^1.0",
-        "intervention/image": "^2.3"
+        //"intervention/image": "2.3.4"
     },
     "require-dev": {
 		"fzaninotto/faker": "~1.4",
